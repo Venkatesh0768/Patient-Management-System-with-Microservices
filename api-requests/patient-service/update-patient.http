@@ -1,0 +1,14 @@
+### PUT request to update the Patient
+@id = 14f85fb6-ba4b-4f59-8672-9c041791f856
+PUT http://localhost:4000/patients/{{id}}
+Content-Type: application/json
+
+{
+    "name" : "Venkates Rapolu",
+    "email" : "venkatesh@gmail.com",
+    "address" : "123 Main Street 420",
+    "dateOfBirth" : "2003-07-31"
+
+}
+
+###
