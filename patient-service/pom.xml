@@ -109,8 +109,8 @@
         <dependency>
             <groupId>org.springframework.kafka</groupId>
             <artifactId>spring-kafka</artifactId>
-            <version>4.0.0-M5</version>
         </dependency>
+
 
     </dependencies>
 
